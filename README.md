@@ -15,7 +15,7 @@ google-chrome index.html
 ## Screenshots
 
 <p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/tic-tac-toe/main/Screenshots/Screenshot_1.jpg" width="800">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/tic-tac-toe/main/Screenshots/1.jpg" width="800">
 </p>
 
 
