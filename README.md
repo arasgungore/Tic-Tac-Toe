@@ -4,6 +4,14 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 
 
 
+## Run on terminal
+
+```sh
+google-chrome index.html
+```
+
+
+
 ## Screenshots
 
 <p align="center">
