@@ -21,10 +21,9 @@ google-chrome index.html
 
 ### Rules
 
-- The game is played on a 3x3 square grid.
-- You are X, and your friend is O. Players take turns placing their marks in empty squares.
-- First player to get 3 marks in a vertical, horizontal, or diagonal row wins the game.
-- If all 9 squares are filled, the game ends in a draw.
+- Two players take turns placing 'X' and 'O's in empty spaces on a 3x3 square grid.
+- Player with 'X' mark starts first. First player to get 3 marks in a vertical, horizontal, or diagonal row wins the game.
+- If all spaces are filled, the game ends in a draw.
 
 
 
